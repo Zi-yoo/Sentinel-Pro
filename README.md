@@ -6,13 +6,13 @@ Sentinel生产化改造
   -------------------
   容灾规则云端配置的全面化
   ----------------
-使用：
+快速上手：
 ==========
  git clone本项目
  --------------
- IDEA直接运行
+ 1、IDEA直接运行
  -------------
- 或 mvn clean package -DskipTests 
+ 2、或 mvn clean package -DskipTests 
  ------------------------------
  找到target下找到打包好的jar 使用 java -jar  xxx.jar
  -------------------------------------------
