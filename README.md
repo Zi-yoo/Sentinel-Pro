@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://user-images.githubusercontent.com/9434884/43697219-3cb4ef3a-9975-11e8-9a9c-73f4f537442d.png" alt="Sentinel Logo" width="50%">
 
 # Sentinel: The Sentinel of Your Microservices
@@ -168,3 +169,6 @@ These are only part of the companies using Sentinel, for reference only. If you 
 ![金汇金融](https://res.jinhui365.com/r/images/logo2.png?v=1.527)
 ![闪电购](http://cdn.52shangou.com/shandianbang/official-source/3.1.1/build/images/logo.png)
 ![拼多多](http://cdn.pinduoduo.com/assets/img/pdd_logo_v3.png)
+=======
+# Sentinel-Pro
+>>>>>>> bd6b45b3a89415fbd0244bc15186b10e58e75cd6
